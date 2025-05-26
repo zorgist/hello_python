@@ -1,0 +1,5 @@
+a = int(input ("Введи 3 числа: "))
+b = int(input())
+c = int(input())
+print("Наибольшее число: ")
+print(max(a,b,c))
